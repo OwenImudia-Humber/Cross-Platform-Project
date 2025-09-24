@@ -1,3 +1,3 @@
-module.exports = {
+module.experts = {
   preset: 'react-native',
 };
